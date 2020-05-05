@@ -1,5 +1,7 @@
 # Wagg
  Dog health and fitness iOS app
+ created by Simran Bhamra 
+ All rights reserved
  
  Wagg is a dog health and fitness app that tracks your dogs: weight, food habits, activity, and medication. The app was made using SwiftUI and Google Firebase Firestore. 
  
