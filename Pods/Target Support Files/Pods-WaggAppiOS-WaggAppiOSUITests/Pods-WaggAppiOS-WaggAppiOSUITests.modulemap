@@ -1,0 +1,6 @@
+framework module Pods_WaggAppiOS_WaggAppiOSUITests {
+  umbrella header "Pods-WaggAppiOS-WaggAppiOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
