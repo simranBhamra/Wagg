@@ -15,5 +15,5 @@ https://github.com/AppPear/ChartView
 ## Installation
 1. Clone this repo
 2. Open shell window and navigate to the project folder
-3. Run ## `pod install`
-4. Open up  # `WaggAppiOS.xcworkspace` and run the project on the simulator or an iOS device of your choice 
+3. Run  `pod install`
+4. Open up   `WaggAppiOS.xcworkspace` and run the project on the simulator or an iOS device of your choice 
