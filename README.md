@@ -4,13 +4,13 @@
  Wagg is a dog health and fitness app that tracks your dogs: weight, food habits, activity, and medication. The app was made using SwiftUI and Google Firebase Firestore. 
  
 ## Requirements 
-Xcode 11.4
-iOS 13.1
+* Xcode 11.4
+* iOS 13.1
 
 
 ## Dependencies
-SwiftUICharts
-https://github.com/AppPear/ChartView
+* SwiftUICharts
+ https://github.com/AppPear/ChartView
 
 ## Installation
 1. Clone this repo
