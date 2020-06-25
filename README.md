@@ -5,7 +5,7 @@
  
  All rights reserved
  
- Wagg is a dog health and fitness app that tracks your dogs: weight, food habits, activity, and medication. The app was made using SwiftUI and Google Firebase Firestore. 
+Wagg is a dog health and fitness iOS app designed to help your dog live a healthy and happy life. Wagg takes out the complexity involved in maintaining and tracking your dogs diet by providing tools to make healthy diet and exercise decisions. Wagg’s main features include food, weight, activity, and medication tracking to ensure the best for your dog. Not only is this app perfect for dog owners but it can also be used by dog sitters, and vets to review the dogs day to day life. 
  
 ## Requirements 
 * Xcode 11.4
